@@ -8,13 +8,15 @@ const GlobalStyle = createGlobalStyle`
     box-sizing:border-box ;
 }
 body{
-    background: #1b1b1b; ;
+    background: #1b1b1b;
+    font-family:'Inter', sans-serif ;
 }
 button{
  font-size:1.1rem ;
  font-weight:bold ;
  padding:1rem 2rem;
  cursor:pointer ;
+ font-family:'Inter', sans-serif ;
  border:3px solid #23d997;
  background:transparent;
  color:white ;
@@ -25,7 +27,7 @@ button{
  }
 }
  h2{
-     font-size:4rem;
+     font-size:3rem;
      font-weight:lighter ;
  }
  h3{
