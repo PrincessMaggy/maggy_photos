@@ -1,8 +1,9 @@
 import React from "react";
+import AboutUs from "./pages/AboutUs";
 function App() {
   return (
-    <div>
-      <header>MaggyLab</header>
+    <div className ="App">
+      <AboutUs/>
       
     </div>
   );
