@@ -10,7 +10,7 @@ const Nav =()=>{
                 <h1><Link id="logo" to="/mywebsite">MaggyLab</Link></h1>
                 <ul>
                     <li>
-                        <Link to="/mywebsite" href="#"> About Us</Link>
+                        <Link to="/mywebsite"> About Us</Link>
                     </li>
                     <li>
                         <Link to="/work"> Our Work</Link>
