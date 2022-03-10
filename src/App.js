@@ -1,5 +1,6 @@
 import React from "react";
 import AboutUs from "./pages/AboutUs";
+import Nav from "./components/Nav";
 //styles
 import GlobalStyle from "./components/GlobalStyle";
 
@@ -7,8 +8,10 @@ import GlobalStyle from "./components/GlobalStyle";
 function App() {
   return (
     <div className ="App">
-      <AboutUs/>
-      <GlobalStyle/>
+    <GlobalStyle/>
+    <Nav/> 
+    <AboutUs/>
+      
     </div>
   );
 }
