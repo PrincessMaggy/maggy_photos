@@ -1,14 +1,14 @@
 import React, {useState,useEffect} from "react";
 import styled from 'styled-components';
-import {useNavigate} from 'react-router-dom';
+import {useLocation} from 'react-router-dom';
 import { MovieState } from "../movieState";
 
 const MovieDetail = ()=>{
-const history = useNavigate();
-const url = history.location.pathname;
+const history = useLocation();
+const url = history.pathname;
 const [movies, setMovies] = useState(MovieState);
 const [movie, setMovie] = useState(null);
-console.log(history);
+console.log(history.pathname);
 
 //Use effect
 useEffect(()=>{
