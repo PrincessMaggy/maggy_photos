@@ -7,7 +7,7 @@ const Nav =()=>{
     return(
         
             <StyledNav>
-                <h1><Link id="logo" to="/mywebsite">MaggyLab</Link></h1>
+                <h1><Link id="logo" to="/mywebsite">Maggy Photos</Link></h1>
                 <ul>
                     <li>
                         <Link to="/mywebsite"> About Us</Link>
