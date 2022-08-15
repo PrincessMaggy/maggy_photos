@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/maggy_photos/static/js/main.09f9045f.js",
+    "main.js": "/maggy_photos/static/js/main.795642e5.js",
     "static/js/787.eace9186.chunk.js": "/maggy_photos/static/js/787.eace9186.chunk.js",
     "static/media/good-times2.jpg": "/maggy_photos/static/media/good-times2.4ea1be179615d4b3ab59.jpg",
     "static/media/goodtimes-small.png": "/maggy_photos/static/media/goodtimes-small.94ab060d85c99adbb13f.png",
@@ -15,10 +15,10 @@
     "static/media/money.svg": "/maggy_photos/static/media/money.2e18c561a4e6c930cf9f5dad8d44802c.svg",
     "index.html": "/maggy_photos/index.html",
     "static/media/diaphragm.svg": "/maggy_photos/static/media/diaphragm.fb1e5b13ade6e4d1c1c3e0f93229b50d.svg",
-    "main.09f9045f.js.map": "/maggy_photos/static/js/main.09f9045f.js.map",
+    "main.795642e5.js.map": "/maggy_photos/static/js/main.795642e5.js.map",
     "787.eace9186.chunk.js.map": "/maggy_photos/static/js/787.eace9186.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.09f9045f.js"
+    "static/js/main.795642e5.js"
   ]
 }
