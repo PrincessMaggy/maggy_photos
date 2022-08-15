@@ -6,6 +6,7 @@ const GlobalStyle = createGlobalStyle`
     padding:0 ;
     margin:0 ;
     box-sizing:border-box ;
+    overflow-x: hidden;
 }
 body{
     background: #1b1b1b;
@@ -27,7 +28,7 @@ button{
  }
 }
  h2{
-     font-size:3rem;
+     font-size:2rem;
      font-weight:lighter ;
  }
  h3{
