@@ -28,7 +28,7 @@ const AboutSection =() =>{
                     variants={titleAnim}> true. </motion.h2>
                 </Hide>
                 </motion.div>
-                <motion.p variants={fade}> Reach out to me for any designs or developer jobs and ideas. 
+                <motion.p variants={fade}> Reach out to me for any designs or photography jobs and ideas. 
                 I am a professional with amazing skills.</motion.p>
                 <motion.button variants={fade}> Contact Us</motion.button>
                 </Description>

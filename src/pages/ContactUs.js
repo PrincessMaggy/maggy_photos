@@ -16,7 +16,7 @@ return(
    style={{background:"#fff"}}> 
    <Title>
       <Hide>
-         <motion.h2 variants={titleAnim}>Get in Touch</motion.h2>
+         <motion.h2 style={{fontSize:"3rem", fontWeight:"bold"}} variants={titleAnim}>Get in Touch</motion.h2>
       </Hide>
    </Title>
    <div>
@@ -47,14 +47,23 @@ return(
 
 const ContactStyle = styled(motion.div)`
    padding:5rem 10rem;
-   min-height:90vh;
+   margin: 3em;
+   min-height:100vh;
    color:#353535;
+   @media (max-width:1500px) {
+      /* margin-top: 5rem; */
+      padding:2rem;
+      font-size: 1rem;
+   }
 
 `
 
 const Title =styled.div`
    margin-bottom: 4rem;
    color: black;
+      @media (max-width:1500px) {
+         margin-top:5rem;
+      }
 `
 
 const Hide = styled.div`
@@ -72,6 +81,8 @@ const Social =styled(motion.div)`
    align-items: center;
    h2{
       margin:2rem;
+   font-size:1.8rem;
+   font-weight: 700;
    }
 `
 export default ContactUs;

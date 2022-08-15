@@ -56,6 +56,23 @@ li{
     padding-left: 10rem;
     position:relative ;
 }
+@media(max-width:1300px) {
+    flex-direction: column;
+    padding:2rem 1rem;
+    #logo{
+        display: inline-block;
+      margin:2rem;
+    }
+    ul{
+        justify-content: space-around;
+        width: 100%;
+        padding: 2rem;
+        li{
+            padding: 0;
+        }
+    }
+
+}
 `
 
 
