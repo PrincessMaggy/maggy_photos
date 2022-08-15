@@ -13,6 +13,8 @@ import goodtimes from '../img/goodtimes-small.png';
 import {motion} from 'framer-motion'
 import { pageAnimation, fade, photoAnim, lineAnim, slider, sliderContainer } from '../animation';
 
+import ScrollTop from "../components/ScrollTop";
+
 const OurWork =()=>{
 
 return(
@@ -53,7 +55,7 @@ return(
             <img src={goodtimes} alt="good times" />
          </Link>
       </Movie>
-   
+   <ScrollTop/>
    </Work>
 )};
 
