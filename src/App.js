@@ -23,7 +23,7 @@ function App() {
 
         <Routes  location={location} key={location.pathname}>
 
-          <Route path="/mywebsite" element={<AboutUs/>} />
+          <Route path="/" element={<AboutUs/>} />
 
           <Route path="/work" element={<OurWork/>} />
 
