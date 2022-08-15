@@ -33,9 +33,9 @@ This is webpage that contains an image gallery and functions effectively.
 
 
 ### What I learned
-- I got better understanding of how useLocation works in react
-- I learnt how to use styled components
-_ I practised the use of framer motion for animations for the first time
+- I got better understanding of how useLocation works in react.
+- I learnt how to use styled components.
+- I practised the use of framer motion for animations for the first time.
 
 ## Author
 
