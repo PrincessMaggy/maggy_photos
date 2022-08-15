@@ -54,6 +54,7 @@ const ContactStyle = styled(motion.div)`
       /* margin-top: 5rem; */
       padding:2rem;
       font-size: 1rem;
+      margin:0;
    }
 
 `
@@ -81,8 +82,8 @@ const Social =styled(motion.div)`
    align-items: center;
    h2{
       margin:2rem;
-   font-size:1.8rem;
-   font-weight: 700;
+      font-size:1.8rem;
+      font-weight: 700;
    }
 `
 export default ContactUs;
