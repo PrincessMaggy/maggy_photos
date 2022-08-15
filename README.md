@@ -11,14 +11,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   - [Links](#links)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
-This is webpage that contains a music library and functions effectively.
+This is webpage that contains an image gallery and functions effectively.
 ### Screenshot
 
-![screenshot](./screenshot.png)
+![screenshot](./screenshot.PNG)
 
 ### Links
 
@@ -38,8 +37,6 @@ This is webpage that contains a music library and functions effectively.
 - I learnt how to use styled components
 _ I practised the use of framer motion for animations for the first time
 
-### Useful resources
-[]
 ## Author
 
 - Website - [Maggy](https://princessmaggy.github.io/My-Portfolio/)
