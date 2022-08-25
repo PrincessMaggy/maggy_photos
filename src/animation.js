@@ -37,7 +37,7 @@ export const titleAnim = {
 
 export const container ={
     hidden:{
-        x: 100
+        // x: 100
     },
     show:{
         x: 0, 
