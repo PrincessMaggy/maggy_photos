@@ -24,7 +24,7 @@ export const pageAnimation ={
 export const titleAnim = {
     hidden: {
         opacity:0,
-        y:200
+        // y:200
     },
     show:{
         opacity:1, 
